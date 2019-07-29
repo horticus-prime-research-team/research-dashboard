@@ -49,16 +49,19 @@ We are a research team that has been given a back-end system for monitoring the 
 * MIT
 
 #### MVP1
-* 
-*
-*
-*
-*
+* Authorization: Admin role with full CRUD capabilities
+* Chart.js for displaying moisture data
+* Live-stream data viewport
+* Button (red, green, yellow) to reflect moisture level
+* Initial UI
+* Admin page for editing roles and adding users
+* Documentation for onboarding new researchers
 
 #### MVP 2
-*
-*
-*
+* Clean and sleek UI
+* Moisture table for displaying moisture data
+* Partial CRUD on moisture table
+* Additional roles of Senior and Assistant
 
 #### MVP Xs
 
